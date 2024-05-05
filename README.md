@@ -13,13 +13,13 @@ Menu
 
 O programa apresenta um menu com as seguintes opções:
 
- * Converter USD para BRL
- * Converter BRL para USD
- * Converter AED para BRL
- * Converter BRL para AED
- * Converter AFN para BRL
- * Converter BRL para AFN
- * Sair
+ * 1) Converter USD para BRL
+ * 2) Converter BRL para USD
+ * 3) Converter AED para BRL
+ * 4) Converter BRL para AED
+ * 5) Converter AFN para BRL
+ * 6) Converter BRL para AFN
+ * 7) Sair
 
 Exemplo de uso
 
@@ -29,5 +29,4 @@ Digite quanto você quer converter: 100
 
 100 Em Dolar, equivale a: 537.44 Em reais
 
-Licença
-Este projeto está licenciado sob a licença MIT.
+Licença MIT.
