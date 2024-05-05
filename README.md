@@ -27,6 +27,4 @@ Digite o número da opção desejada: 1
 
 Digite quanto você quer converter: 100
 
-100 Em Dolar, equivale a: 537.44 Em reais
-
-Licença MIT.
+100 Em Dolar, equivale a: 537.44 Em reais.
